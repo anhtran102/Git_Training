@@ -1,7 +1,0 @@
-C:\Users\anh.tran\source\repos\GitTraining\GitTraining\bin\Debug\GitTraining.exe.config
-C:\Users\anh.tran\source\repos\GitTraining\GitTraining\bin\Debug\GitTraining.exe
-C:\Users\anh.tran\source\repos\GitTraining\GitTraining\bin\Debug\GitTraining.pdb
-C:\Users\anh.tran\source\repos\GitTraining\GitTraining\obj\Debug\GitTraining.csproj.AssemblyReference.cache
-C:\Users\anh.tran\source\repos\GitTraining\GitTraining\obj\Debug\GitTraining.csproj.CoreCompileInputs.cache
-C:\Users\anh.tran\source\repos\GitTraining\GitTraining\obj\Debug\GitTraining.exe
-C:\Users\anh.tran\source\repos\GitTraining\GitTraining\obj\Debug\GitTraining.pdb
