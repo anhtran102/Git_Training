@@ -17,7 +17,7 @@ namespace GitTraining
     {
         public void SayHello() 
         {
-            Console.WriteLine("I am Anh");
+            Console.WriteLine("I am Đuc Huy");
             //Write console your name here.
             Console.WriteLine("Hi, everyone");
         }
